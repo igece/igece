@@ -8,6 +8,7 @@ Currently working as a .NET Technologies Expert at [Capgemini Engineering](https
 [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/overview/what-is-azure/)
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+[![EF Core](https://img.shields.io/badge/EF%20Core-%2300599C.svg?style=flat&logo=ef&logoColor=white)](https://www.uca.es)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23239120.svg?style=flat&logo=hoppscotch&logoColor=white)](https://docs.hoppscotch.io/)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
