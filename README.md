@@ -2,7 +2,7 @@
 
 I’m particularly interested in C# and .NET frameworks, but I have an early passion and interest in everything related with computing technologies.
 
-Currently working as a Technical Leader and .NET Technologies Expert at [Capgemini Engineering](https://capgemini-engineering.com/).
+Currently working as Software Solutions Engineer at [Thales](https://www.thalesgroup.com/).
 
 ### Tech Stack
 [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/overview/what-is-azure/)
